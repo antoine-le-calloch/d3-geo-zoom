@@ -1,6 +1,6 @@
 import { select as d3Select, pointers as d3Pointers } from 'd3-selection';
 import { zoom as d3Zoom } from 'd3-zoom';
-import versor from 'versor/src/index';
+import versor from 'versor';
 import Kapsule from 'kapsule';
 
 export default Kapsule({
